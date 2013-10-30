@@ -1,0 +1,77 @@
+#chess td{
+	width: 60px;
+}
+
+#chess tr{
+	height: 60px;
+}
+
+.moveable {
+	background-color: #dddddd;
+}
+
+img {
+	width: 60px;
+	height: 60px;
+}
+
+div {
+	width: 60px;
+	height: 60px;
+}
+
+.black_soldier {
+	background:transparent url(images/chess.png) no-repeat scroll -360px 0;
+}
+
+.black_cannon {
+	background:transparent url(images/chess.png) no-repeat scroll -300px 0;
+}
+
+.black_car {
+	background:transparent url(images/chess.png) no-repeat scroll -240px 0;
+}
+
+.black_horse {
+	background:transparent url(images/chess.png) no-repeat scroll -180px 0;
+}
+
+.black_prime {
+	background:transparent url(images/chess.png) no-repeat scroll -120px 0;
+}
+
+.black_bodyguard {
+	background:transparent url(images/chess.png) no-repeat scroll -60px 0;
+}
+
+.black_general {
+	background:transparent url(images/chess.png) no-repeat scroll 0 0;
+}
+
+.red_soldier {
+	background:transparent url(images/chess.png) no-repeat scroll -360px -60px;
+}
+
+.red_cannon {
+	background:transparent url(images/chess.png) no-repeat scroll -300px -60px;
+}
+
+.red_car {
+	background:transparent url(images/chess.png) no-repeat scroll -240px -60px;
+}
+
+.red_horse {
+	background:transparent url(images/chess.png) no-repeat scroll -180px -60px;
+}
+
+.red_prime {
+	background:transparent url(images/chess.png) no-repeat scroll -120px -60px;
+}
+
+.red_bodyguard {
+	background:transparent url(images/chess.png) no-repeat scroll -60px -60px;
+}
+
+.red_general {
+	background:transparent url(images/chess.png) no-repeat scroll 0 -60px;
+}
